@@ -1,7 +1,4 @@
 # HealthMate Symptom Checker
-
-![HealthMate Screenshot](screenshot.png) *(Add a screenshot if available)*
-
 A responsive web application that analyzes symptoms using AI (Google Gemini) and provides potential medical conditions with recommended actions.
 
 ## ✨ Features
